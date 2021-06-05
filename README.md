@@ -14,7 +14,7 @@ Python 3.6 or above is required.
 Selenium, Colorama is also required.
 
 Check your Google Chrome version. If you have V.88, you can keep the included chromedriver.exe. If you have any other Google Chrome version, download chromedriver.exe with the matching version here to main.py's file directory.
-[Link chromdriver](https://chromedriver.chromium.org/downloads)
+[Link chromedriver](https://chromedriver.chromium.org/downloads)
 
 You can also use this script for Mac and Linux including that you need to have chromedriver for Linux or Mac
 
