@@ -19,7 +19,7 @@ Check your Google Chrome version. If you have V.88, you can keep the included ch
 You can also use this script for Mac and Linux including that you need to have chromedriver for Linux or Mac
 
 # Steps
-1. Run viperx.py.
+1. Run viperx.exe.
 2. Enter Video URL — [My TikTok](https://www.tiktok.com/@avoidsn8ow/video/6968110029526404357?lang=pl-PL&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6923295538813683205).
 3. Solve the captcha.
 All set!
