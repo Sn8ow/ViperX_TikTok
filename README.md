@@ -33,6 +33,12 @@ Select "Help", and click "About Google Chrome".
 then choose your chromedriver version
 
 
+# Changelog
+### Version 2.0
+- Planned addition of a GUI update (Comming soon)
+- Planned Update server
+- Planned fix all errors with Issues (on github)
+
 # Legal Notice
 Viewbotting is generally prohibited, and should under no circumstances be done. vipto.de is not recommended to use as TikTok is strictly against viewbotting. TikTok Automated Viewbot automates that "illegal" process, so please refrain from using it — developed for educational purposes only.
 
